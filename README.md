@@ -5,6 +5,8 @@
 - 🦊 I mainly code Discord bots but plan on switching to more practical stuff.
 - 🐦 I'm currently working on a project for Discord so stay tuned!
 
+
+
 # Contacts
 - 📧 Email: ZeakosToyBox@protonmail.com
 - 🕊️ Twitter: https://twitter.com/ZeakosToyBox
