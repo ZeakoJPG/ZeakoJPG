@@ -9,7 +9,7 @@
 
 # Contacts
 - 📧 Email: ZeakosToyBox@protonmail.com
-- 🕊️ Twitter: https://twitter.com/ZeakosToyBox
+- 🕊️ Twitter: https://twitter.com/ZeakoJPG
 
 
 ![Zeakos's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeakoJPG&show_icons=true&theme=omni)
