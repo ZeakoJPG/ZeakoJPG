@@ -10,4 +10,4 @@
 - 🕊️ Twitter: https://twitter.com/ZeakosToyBox
 
 
-[![Zeakos's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeakoJPG)](https://github.com/anuraghazra/github-readme-stats)
+![Zeakos's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeakoJPG&show_icons=true&theme=omni)
